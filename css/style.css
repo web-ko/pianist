@@ -908,3 +908,6 @@ body.page-template-page-home.biogr-page .burger-icon span {
        height: 97vh;
     }
 }
+.rsNavItem {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
